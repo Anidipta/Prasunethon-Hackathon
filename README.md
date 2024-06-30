@@ -18,7 +18,7 @@
 
 ### How to run?
 
-the link to access our final model is here :https://drive.google.com/file/d/1P2HRWjud5vZ3E5PRUhqvywu9UHo8xttO/view?usp=sharing
+the link to access our final model is [here](https://drive.google.com/file/d/1P2HRWjud5vZ3E5PRUhqvywu9UHo8xttO/view?usp=sharing)
 
 - Python 3.9+ 
 
