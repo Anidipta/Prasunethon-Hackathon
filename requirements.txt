@@ -4,3 +4,4 @@ pandas
 numpy
 joblib
 streamlit_lottie
+scikit-learn
