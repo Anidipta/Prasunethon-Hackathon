@@ -49,21 +49,18 @@ This fraud detection dataset is a vital resource for developing and assessing fr
 
 **Python Requirements:**
 ```
-joblib==1.0.0
-kaggle==1.5.12
-numpy==1.19.5
-pandas==1.1.2
-regex==2020.7.14
-scikit-learn==0.22.1
-scipy==1.5.4
-auto-sklearn==0.14.7
-dask==2022.8.1
+catboost
+streamlit
+pandas
+numpy
+joblib
+streamlit_lottie
+scikit-learn
 ```
 
 ### **🎥 Demo Video:**
 
 Watch the demo video [here](https://youtu.be/qHkBchgEdTg?si=mCmb0Dm8TBo88reV).
-
 
 ---
 
