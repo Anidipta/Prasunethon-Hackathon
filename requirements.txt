@@ -3,3 +3,4 @@ streamlit
 pandas
 numpy
 joblib
+streamlit_lottie
