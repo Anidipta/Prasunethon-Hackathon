@@ -170,11 +170,18 @@ with col1:
 with col2:
     demo = st.button("🎮 Demo", key="demo_button")
 
-if not home and not demo:
-    home = True
+# Manage page navigation with session state
+if "page" not in st.session_state:
+    st.session_state.page = "home"  # Default page is home
+
+if home:
+    st.session_state.page = "home"
+    
+if demo:
+    st.session_state.page = "demo"
     
 # Page navigation based on button clicks
-if home:
+if st.session_state.page == "home":
     st.title("Risk Sense : Next-Gen Fraud Predictor 🛡️")
     
     
@@ -200,7 +207,7 @@ if home:
         """)
         
 
-elif demo:
+elif st.session_state.page == "demo":
     st.title("Risk Sense : Demo 🔍")
     
     with st.sidebar:
