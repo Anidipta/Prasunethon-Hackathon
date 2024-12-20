@@ -1,4 +1,4 @@
-# 📊 **Risk Sense: Next-Gen Fraud Detection**
+# 📊 **Risk Sense : Next-Gen Fraud Predictor**
 
 ## **Dataset Overview**
 This dataset is specifically designed for developing and evaluating machine learning models focused on **fraud detection** in financial transactions. It contains **6.3 million** rows of simulated transactional data, offering a comprehensive foundation for building and testing models to detect fraudulent activities.
