@@ -36,6 +36,13 @@ This dataset is specifically designed for developing and evaluating machine lear
 
 ---
 
+## Flow-Case
+
+![Flowchart](https://github.com/Anidipta/Risk-Sense/blob/main/Images%20Model/Flow.png)
+
+---
+
+
 ## **Potential Use Cases:**
 
 1. **🔍 Supervised Learning for Fraud Detection**: 
